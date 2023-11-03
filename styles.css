@@ -1,7 +1,16 @@
 body {
     font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
+
+
 h1 {
     color: #FB4D3D
 
+}
+
+.cover {
+    max-width: 500px;
+    align-items: center;
 }
